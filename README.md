@@ -8,7 +8,7 @@ Before working please install python and all necessary packages.
 Please registe in Microsoft Azure to get the API key for the language translator.
 
 
- # Append languages that you need to translat from the input language.
+ # Append languages that you need to translate from the input language.
  # from --> is source language.
  # to --> is destination language.
     params = '&from=en&to=de&to=fr&to=it'
